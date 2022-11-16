@@ -1,0 +1,16 @@
+= Mills Park Middle School Engineering: Shoelace Tying
+Captain Lugaru (CaptainLugaru) <72951616+CaptainLugaru@users.noreply.github.com>
+v0.1, Tue 15 Nov 2022 05:25:07 PM EST
+:description: Mills Park Middle School, Engineering Class Assignment.
+:sectnums:
+:sectanchors:
+:sectlinks:
+:icons: font
+:toc: preamble
+:toclevels: 2
+:toc-title: 'Destructions': Directions & Instructions
+:keywords: Shoelace Tying Mill Park Middle School Engineering
+:imagesdir: ./assets/img
+ifdef::env-name[:relfilesuffix: .adoc]
+
+ToDo: This is my engineering assignment.
