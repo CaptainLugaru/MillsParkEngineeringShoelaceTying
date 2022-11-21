@@ -25,7 +25,7 @@ If foot not in shoe:
 .. Make sure toes being comfortably in the front of shoe cavity.
 
 .Shoelace tying starting position.
-[#img-precodition-state,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying]
+[#img-precodition-state,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying/README.pdf]
 image::precondition-state.png["Starting preconditions",600]
 
 == Tying Shoelaces
@@ -39,7 +39,7 @@ Pull laces arrested by the thumb against the pointing finger.
 See image:
 
 .Cross-hold shoelaces.
-[#img-cross-hol-shoelaces,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying]
+[#img-cross-hol-shoelaces,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying/README.pdf]
 image::cross-hold-shoelaces.png["Cross-hold shoelaces",600]
 
 [#_first_loop_x_shape]
@@ -48,7 +48,7 @@ image::cross-hold-shoelaces.png["Cross-hold shoelaces",600]
 Make the X-like shape using the held shoelaces, with the middle of each shoelace touching.
 
 .X-like shape.
-[#img-X-like-shape,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying]
+[#img-X-like-shape,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying/README.pdf]
 image::X-like-shape.png["X-like shape",600]
 
 ==== Flip over and under to make a loop
@@ -57,7 +57,7 @@ Gide the tip of the lace that is on the top of the other and guide it through th
 See the formed outcome:
 
 .Top over bottom shoelace.
-[#img-top-over-bottom-lace,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying]
+[#img-top-over-bottom-lace,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying/README.pdf]
 image::top-over-bottom.png["Top over bottom shoelace",600]
 
 [#_pull_loop_tight]
@@ -66,7 +66,7 @@ image::top-over-bottom.png["Top over bottom shoelace",600]
 Grab the tips of both laces pointed away from its root.Pull shoelaces apart to tighten the loop to comfortable snug fit.
 
 .Tighten the loop.
-[#img-tighten-the-loop,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying]
+[#img-tighten-the-loop,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying/README.pdf]
 image::tighten-first-loop.png["Tighten the loop",600]
 
 ==== Drop the laces
@@ -85,7 +85,7 @@ Pick the laces back up _by the middle_ and make the *_"Rabbit Ears"_*.
 See image:
 
 .Rabbit ears.
-[#img-rabbit-ears,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying]
+[#img-rabbit-ears,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying/README.pdf]
 image::rabbit-ears.png["Rabbit ears",600]
 
 ==== Repeat the loop steps now with the "Rabbit Ears"
@@ -96,7 +96,7 @@ Make an X with the rabbit ears, that now look like doubled laces, and gide the t
 See the formed outcome:
 
 .Rabbit ears loop.
-[#img-rabbit-ears-loop,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying]
+[#img-rabbit-ears-loop,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying/README.pdf]
 image::rabbit-ear-loop.png["Rabbit ears loop",600]
 
 <<_pull_loop_tight,Tighten the second loop too>>
@@ -105,8 +105,8 @@ Carefully tighten the rabbit ears loop to form the durable tie.
 See the formed outcome:
 
 .Rabbit ears tightened.
-[#img-rabbit-ears-loop-tightened,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying]
-image::https://via.placeholder.com/400x300.png?text=Rabbit+Ears+Loop+Tightened["Rabbit ears loop tightened",400,300]
+[#img-rabbit-ears-loop-tightened,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying/README.pdf]
+image::rabbit-ear-loop-tighten.png["Rabbit ears loop tightened",600]
 
 [IMPORTANT]
 .Be careful to not pull lace ends through.
@@ -114,10 +114,6 @@ image::https://via.placeholder.com/400x300.png?text=Rabbit+Ears+Loop+Tightened["
 It is important to mind the ends of the shoelaces to make sure that the tip is not accidentally pulled through the second loop breaking the rabbit ear.
 To remedy the situation one call pull the tip out slightly while the second loop is not fully tightened.
 ====
-
-=== Optional second loop enhancement
-
-ToDo:
 
 == Test on a family member
 
