@@ -26,7 +26,7 @@ If foot not in shoe:
 
 .Shoelace tying starting position.
 [#img-precodition-state,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying]
-image::https://via.placeholder.com/600x400.png?text=Foot+in+shoe+with+laces+untied["Starting preconditions",600,400]
+image::precondition-state.png["Starting preconditions",600,400]
 
 == Tying Shoelaces
 
