@@ -26,7 +26,7 @@ If foot not in shoe:
 
 .Shoelace tying starting position.
 [#img-precodition-state,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying]
-image::precondition-state.png["Starting preconditions"]
+image::precondition-state.png["Starting preconditions",600]
 
 == Tying Shoelaces
 
@@ -40,7 +40,7 @@ See image:
 
 .Cross-hold shoelaces.
 [#img-cross-hol-shoelaces,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying]
-image::cross-hold-shoelaces.png["Cross-hold shoelaces"]
+image::cross-hold-shoelaces.png["Cross-hold shoelaces",600]
 
 [#_first_loop_x_shape]
 === First loop: X shape
@@ -49,7 +49,7 @@ Make the X-like shape using the held shoelaces, with the middle of each shoelace
 
 .X-like shape.
 [#img-X-like-shape,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying]
-image::https://via.placeholder.com/400x300.png?text=X-like+shape["X-like shape",400,300]
+image::X-like-shape.png["X-like shape",600]
 
 ==== Flip over and under to make a loop
 
