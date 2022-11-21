@@ -67,7 +67,7 @@ Grab the tips of both laces pointed away from its root.Pull shoelaces apart to t
 
 .Tighten the loop.
 [#img-tighten-the-loop,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying]
-image::https://via.placeholder.com/400x300.png?text=X-like+shape["Tighten the loop",400,300]
+image::tighten-first-loop.png["Tighten the loop",600]
 
 ==== Drop the laces
 
