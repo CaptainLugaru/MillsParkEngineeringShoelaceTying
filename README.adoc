@@ -97,7 +97,7 @@ See the formed outcome:
 
 .Rabbit ears loop.
 [#img-rabbit-ears-loop,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying]
-image::https://via.placeholder.com/400x300.png?text=Rabbit+Ears+Loop["Rabbit ears loop",400,300]
+image::rabbit-ear-loop.png["Rabbit ears loop",600]
 
 <<_pull_loop_tight,Tighten the second loop too>>
 
