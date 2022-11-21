@@ -18,7 +18,8 @@ These are simple instructions to introduce shoelace tying.
 == Preconditions
 
 . Must have shoe untied with laces.
-. Foot must be in shoe. If foot not in shoe:
+. Foot must be in shoe.
+If foot not in shoe:
 .. Slide toes into the shoe cavity, and
 .. Slide heel into the shoe, and
 .. Make sure toes being comfortably in the front of shoe cavity.
@@ -33,7 +34,9 @@ With preconditions met, one can begin the journey of learning to 'tie shoes' (ti
 
 === Cross-hold shoelaces
 
-Hold the _**left** shoelace_ in the _**right** hand_ and the right shoelace in the left hand.Pull laces arrested by the thumb against the pointing finger.See image:
+Hold the _**left** shoelace_ in the _**right** hand_ and the right shoelace in the left hand.
+Pull laces arrested by the thumb against the pointing finger.
+See image:
 
 .Cross-hold shoelaces.
 [#img-cross-hol-shoelaces,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying]
@@ -50,7 +53,8 @@ image::https://via.placeholder.com/400x300.png?text=X-like+shape["X-like shape",
 
 ==== Flip over and under to make a loop
 
-Gide the tip of the lace that is on the top of the other and guide it through the hole formed by the shoe and 'the X' from the bottom to the top and over.See the formed outcome:
+Gide the tip of the lace that is on the top of the other and guide it through the hole formed by the shoe and 'the X' from the bottom to the top and over.
+See the formed outcome:
 
 .Top over bottom shoelace.
 [#img-top-over-bottom-lace,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying]
@@ -77,7 +81,8 @@ Advanced users, experiences, with adequate dexterity, may learn to keep holding 
 
 === Second loop: Rabbit ears loop
 
-Pick the laces back up _by the middle_ and make the *_"Rabbit Ears"_*. See image:
+Pick the laces back up _by the middle_ and make the *_"Rabbit Ears"_*.
+See image:
 
 .Rabbit ears.
 [#img-rabbit-ears,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying]
@@ -87,7 +92,8 @@ image::https://via.placeholder.com/400x300.png?text=Rabbit+Ears["Rabbit ears",40
 
 <<_first_loop_x_shape,Make rabbit ears X-loop>>:
 
-Make an X with the rabbit ears, that now look like doubled laces, and gide the tip of the rabbit ears laces through the hole formed by the 'X' from the bottom to the top and over. See the formed outcome:
+Make an X with the rabbit ears, that now look like doubled laces, and gide the tip of the rabbit ears laces through the hole formed by the 'X' from the bottom to the top and over.
+See the formed outcome:
 
 .Rabbit ears loop.
 [#img-rabbit-ears-loop,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying]
@@ -95,7 +101,8 @@ image::https://via.placeholder.com/400x300.png?text=Rabbit+Ears+Loop["Rabbit ear
 
 <<_pull_loop_tight,Tighten the second loop too>>
 
-Carefully tighten the rabbit ears loop to form the durable tie. See the formed outcome:
+Carefully tighten the rabbit ears loop to form the durable tie.
+See the formed outcome:
 
 .Rabbit ears tightened.
 [#img-rabbit-ears-loop-tightened,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying]
@@ -104,7 +111,8 @@ image::https://via.placeholder.com/400x300.png?text=Rabbit+Ears+Loop+Tightened["
 [IMPORTANT]
 .Be careful to not pull lace ends through.
 ====
-It is important to mind the ends of the shoelaces to make sure that the tip is not accidentally pulled through the second loop breaking the rabbit ear. To remedy the situation one call pull the tip out slightly while the second loop is not fully tightened.
+It is important to mind the ends of the shoelaces to make sure that the tip is not accidentally pulled through the second loop breaking the rabbit ear.
+To remedy the situation one call pull the tip out slightly while the second loop is not fully tightened.
 ====
 
 === Optional second loop enhancement
