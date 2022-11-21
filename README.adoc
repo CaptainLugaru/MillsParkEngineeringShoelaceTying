@@ -26,7 +26,7 @@ If foot not in shoe:
 
 .Shoelace tying starting position.
 [#img-precodition-state,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying/README.pdf]
-image::precondition-state.png["Starting preconditions",600]
+image::precondition-state.png["Starting preconditions",400]
 
 == Tying Shoelaces
 
@@ -40,7 +40,7 @@ See image:
 
 .Cross-hold shoelaces.
 [#img-cross-hol-shoelaces,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying/README.pdf]
-image::cross-hold-shoelaces.png["Cross-hold shoelaces",600]
+image::cross-hold-shoelaces.png["Cross-hold shoelaces",400]
 
 [#_first_loop_x_shape]
 === First loop: X shape
@@ -49,7 +49,7 @@ Make the X-like shape using the held shoelaces, with the middle of each shoelace
 
 .X-like shape.
 [#img-X-like-shape,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying/README.pdf]
-image::X-like-shape.png["X-like shape",600]
+image::X-like-shape.png["X-like shape",400]
 
 ==== Flip over and under to make a loop
 
@@ -58,7 +58,7 @@ See the formed outcome:
 
 .Top over bottom shoelace.
 [#img-top-over-bottom-lace,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying/README.pdf]
-image::top-over-bottom.png["Top over bottom shoelace",600]
+image::top-over-bottom.png["Top over bottom shoelace",400]
 
 [#_pull_loop_tight]
 ==== Pull loop tight
@@ -67,7 +67,7 @@ Grab the tips of both laces pointed away from its root.Pull shoelaces apart to t
 
 .Tighten the loop.
 [#img-tighten-the-loop,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying/README.pdf]
-image::tighten-first-loop.png["Tighten the loop",600]
+image::tighten-first-loop.png["Tighten the loop",400]
 
 ==== Drop the laces
 
@@ -86,7 +86,7 @@ See image:
 
 .Rabbit ears.
 [#img-rabbit-ears,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying/README.pdf]
-image::rabbit-ears.png["Rabbit ears",600]
+image::rabbit-ears.png["Rabbit ears",400]
 
 ==== Repeat the loop steps now with the "Rabbit Ears"
 
@@ -97,7 +97,7 @@ See the formed outcome:
 
 .Rabbit ears loop.
 [#img-rabbit-ears-loop,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying/README.pdf]
-image::rabbit-ear-loop.png["Rabbit ears loop",600]
+image::rabbit-ear-loop.png["Rabbit ears loop",400]
 
 <<_pull_loop_tight,Tighten the second loop too>>
 
@@ -106,7 +106,7 @@ See the formed outcome:
 
 .Rabbit ears tightened.
 [#img-rabbit-ears-loop-tightened,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying/README.pdf]
-image::rabbit-ear-loop-tighten.png["Rabbit ears loop tightened",600]
+image::rabbit-ear-loop-tighten.png["Rabbit ears loop tightened",400]
 
 [IMPORTANT]
 .Be careful to not pull lace ends through.
