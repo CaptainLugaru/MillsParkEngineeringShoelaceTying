@@ -86,7 +86,7 @@ See image:
 
 .Rabbit ears.
 [#img-rabbit-ears,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying]
-image::https://via.placeholder.com/400x300.png?text=Rabbit+Ears["Rabbit ears",400,300]
+image::rabbit-ears.png["Rabbit ears",600]
 
 ==== Repeat the loop steps now with the "Rabbit Ears"
 
