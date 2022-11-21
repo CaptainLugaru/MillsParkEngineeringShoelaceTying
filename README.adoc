@@ -58,7 +58,7 @@ See the formed outcome:
 
 .Top over bottom shoelace.
 [#img-top-over-bottom-lace,link=https://github.com/CaptainLugaru/MillsParkEngineeringShoelaceTying]
-image::https://via.placeholder.com/400x300.png?text=X-like+shape["Top over bottom shoelace",400,300]
+image::top-over-bottom.png["Top over bottom shoelace",600]
 
 [#_pull_loop_tight]
 ==== Pull loop tight
