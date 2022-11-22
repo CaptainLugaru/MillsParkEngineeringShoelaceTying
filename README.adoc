@@ -114,7 +114,3 @@ image::rabbit-ear-loop-tighten.png["Rabbit ears loop tightened",400]
 It is important to mind the ends of the shoelaces to make sure that the tip is not accidentally pulled through the second loop breaking the rabbit ear.
 To remedy the situation one call pull the tip out slightly while the second loop is not fully tightened.
 ====
-
-== Test on a family member
-
-ToDo:
